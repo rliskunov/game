@@ -12,4 +12,4 @@ jobs:
           UNITY_SERIAL: ${{ secrets.UNITY_SERIAL }}
         with:
           targetPlatform: WebGL
-          projectPath: ../
+          projectPath: ../../
